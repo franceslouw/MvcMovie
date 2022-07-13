@@ -6,25 +6,18 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.MvcMovie PreferredExecutionTarget="/Applications/Firefox.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Views/HelloWorld/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Models/Movie.cs">
     <Files>
-      <File FileName="MvcMovie/Controllers/HelloWorldController.cs" Line="24" Column="2" />
-      <File FileName="MvcMovie/Views/HelloWorld/Index.cshtml" Line="7" Column="10" />
+      <File FileName="MvcMovie/Controllers/HelloWorldController.cs" Line="21" Column="2" />
+      <File FileName="MvcMovie/Views/HelloWorld/Index.cshtml" Line="7" Column="37" />
+      <File FileName="MvcMovie/Views/HelloWorld/Welcome.cshtml" Line="12" Column="6" />
+      <File FileName="MvcMovie/Models/Movie.cs" Line="16" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MvcMovie" expanded="True">
-            <Node name="MvcMovie" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="HelloWorld" expanded="True" />
-                <Node name="Home" expanded="True" />
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
-              </Node>
-            </Node>
+            <Node name="MvcMovie" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
